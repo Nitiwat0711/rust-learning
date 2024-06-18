@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/borrowing-and-references/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collection-vector/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/comments/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/compound-data-type/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/constants/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/control-flow/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/enums/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/error-handling/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/function/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/guessing_game/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hashmap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hello-rust/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/helloProject/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/loop-mechanism/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/primitive/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/shadowing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/structs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utf8/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/variables-and-mutability/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/borrowing-and-references/target" />
+      <excludeFolder url="file://$MODULE_DIR$/collection-vector/target" />
+      <excludeFolder url="file://$MODULE_DIR$/comments/target" />
+      <excludeFolder url="file://$MODULE_DIR$/compound-data-type/target" />
+      <excludeFolder url="file://$MODULE_DIR$/constants/target" />
+      <excludeFolder url="file://$MODULE_DIR$/control-flow/target" />
+      <excludeFolder url="file://$MODULE_DIR$/enums/target" />
+      <excludeFolder url="file://$MODULE_DIR$/error-handling/target" />
+      <excludeFolder url="file://$MODULE_DIR$/function/target" />
+      <excludeFolder url="file://$MODULE_DIR$/guessing_game/target" />
+      <excludeFolder url="file://$MODULE_DIR$/hashmap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/hello-rust/target" />
+      <excludeFolder url="file://$MODULE_DIR$/helloProject/target" />
+      <excludeFolder url="file://$MODULE_DIR$/loop-mechanism/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ownership/target" />
+      <excludeFolder url="file://$MODULE_DIR$/primitive/target" />
+      <excludeFolder url="file://$MODULE_DIR$/shadowing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/structs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/utf8/target" />
+      <excludeFolder url="file://$MODULE_DIR$/variables-and-mutability/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/borrowing-and-references" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/collection-vector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/comments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compound-data-type" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/constants" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/control-flow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/enums" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/error-handling" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/function" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/guessing_game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hashmap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-rust" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/helloProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/loop-mechanism" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ownership" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/primitive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shadowing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/structs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/utf8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/variables-and-mutability" vcs="Git" />
+  </component>
+</project>
